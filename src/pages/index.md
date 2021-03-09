@@ -8,10 +8,10 @@ sections:
     content: >
       As a digital collective, we have found innovative ways to help businesses
       grow through design, production, marketing, web development and much more.
-      Our tailored approach to the allows us to work closely with you and your
-      team to deliver inspiring work without the weight of big Agency budgets.
-      Let us connect you with the right mix of our team to help you achieve your
-      goals! [Let's talk](/contact/).
+      Our tailored approach allows us to work closely with you and your team to
+      deliver inspiring work without the weight of big Agency budgets. Let us
+      connect you with the right mix of our team to help you achieve your goals!
+      [Let's talk](/contact/).
   - type: grid_section
     section_id: clients
     title: Clients
