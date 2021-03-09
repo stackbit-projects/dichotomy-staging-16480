@@ -45,6 +45,8 @@ sections:
           - Communication strategy
       - image: images/service-2.svg
         content: |
+          # Marketing & Production
+
           *   Brand development
           *   Naming
           *   Brand identity
