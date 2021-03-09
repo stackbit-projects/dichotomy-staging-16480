@@ -5,9 +5,11 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      This is an Award Winning Agency Based in San Francisco and Focusing on
-      Digital, Identity, and Print Design.This is an Award Winning Agency Based
-      in San Francisco and Focusing on Digital, Identity, and Print Design.
+      As a digital collective, we have found innovative ways to help businesses
+      grow by offering design, production, marketing, web development and much
+      more. But we don’t weigh our projects them down with big Agency budgets.
+      Let us connect you with the right mix of our team to help you achieve your
+      goals!
     content: >-
       We are a brand and design practice. We work closely with you, your team to
       deliver inspiring work, which enables your organization to grow. [Let's
