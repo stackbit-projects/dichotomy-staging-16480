@@ -55,7 +55,7 @@ sections:
 
           *   Typography
         title: Marketing & Production
-      - title: Web 3.0 & E-Comm
+      - title: Web 3.0 & E-Commerce
         image: images/service-3.svg
         content: |-
           - Digital product design
