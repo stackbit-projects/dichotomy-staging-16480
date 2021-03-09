@@ -5,8 +5,7 @@ sections:
   - type: form_section
     section_id: contact-form
     content: >
-      Let’s build something great together
-
+      Let’s build something great together!
 
 
       Complete our contact form or send us an email at
@@ -21,7 +20,6 @@ sections:
       San Francisco, CA 12345
 
       1-234-556-7890
-
 
 
       ### Atlanta
