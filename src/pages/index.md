@@ -71,8 +71,8 @@ sections:
     section_id: cta
     title: Let’s Work Together!
     content: >
-      Say hello at <email@example.com> or tell us more about your project by
-      getting started below.
+      Say hello at <dichotomyagency@gmail.com> or tell us more about your
+      project by getting started below.
     actions:
       - label: Get Started
         url: /contact
