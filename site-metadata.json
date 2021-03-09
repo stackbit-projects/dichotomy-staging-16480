@@ -1,7 +1,7 @@
 {
     "color_scheme": "light",
     "accent_color": "blue",
-    "base_font": "karla",
+    "base_font": "system-sans",
     "header": {
         "title": "Agency",
         "logo": "images/Dichotomy Logo.png",
