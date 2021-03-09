@@ -44,14 +44,14 @@ sections:
           - Digital and experience strategy
           - Communication strategy
       - image: images/service-2.svg
-        content: |-
-          - Brand development
-          - Naming
-          - Brand identity
-          - Design systems
-          - Concept development
-          - Brand implementation and management
-          - Typography
+        content: |
+          *   Brand development
+          *   Naming
+          *   Brand identity
+          *   Design systems
+          *   Concept development
+          *   Brand implementation and management
+          *   Typography
       - title: Web 3.0 & E-Comm
         image: images/service-3.svg
         content: |-
