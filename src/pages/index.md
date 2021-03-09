@@ -52,6 +52,7 @@ sections:
           *   Concept development
           *   Brand implementation and management
           *   Typography
+        title: Marketing & Production
       - title: Web 3.0 & E-Comm
         image: images/service-3.svg
         content: |-
