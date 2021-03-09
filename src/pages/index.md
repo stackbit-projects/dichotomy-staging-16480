@@ -45,12 +45,14 @@ sections:
           - Communication strategy
       - image: images/service-2.svg
         content: |
-          ##### Marketing & Production
-
           *   Brand identity
+
           *   Design systems
+
           *   Concept development
+
           *   Brand implementation and management
+
           *   Typography
         title: Marketing & Production
       - title: Web 3.0 & E-Comm
